@@ -6,6 +6,13 @@ A luxury dark-themed product catalog web application built with pure **HTML, CSS
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-gold?style=flat&logo=render)](https://product-catalog-gmij.onrender.com)
+
+---
+
+## 🌐 Live Demo
+
+👉 **[https://product-catalog-gmij.onrender.com](https://product-catalog-gmij.onrender.com)**
 
 ---
 
